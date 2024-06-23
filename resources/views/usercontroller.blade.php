@@ -1,0 +1,1 @@
+<h1>Hi, This is usercontroller page inside resources > views > usercontroller.blade.php {{$name}}</h1>
